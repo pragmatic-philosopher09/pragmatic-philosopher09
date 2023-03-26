@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on: **Open Source + ML Projects**
 
-- 🌱 I’m currently learning: **Data Science, Frontend Web Dev**
+- 🌱 I’m currently learning: **Data Analytics, Machine Learning, Data Science (in general)**
 
 - 👯 I’m looking to collaborate on: **ML Projects**
 
 - 📝 I regularly post offbeat, creative write pieces on: [https://prince91001.wixsite.com/website](https://prince91001.wixsite.com/website)
 
-- 💬 Ask me about: **Java, Creative Writing, Problem Solving**
+- 💬 Ask me about: **Java, Data Science, Machine Learning, Creative Writing, Problem Solving**
 
 - 📫 How to reach me: **prince91001@gmail.com**
 
